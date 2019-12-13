@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# personal
+__pycache__
+.vscode
+logs
+OUT
+scratch.py
